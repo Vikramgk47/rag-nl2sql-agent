@@ -1,5 +1,5 @@
 #  RAG-NL2SQL-Agent  
-### Multi-Agent NLP-to-SQL System with RAG, RBAC & Snowflake Integration
+### Multi-Agent NLP-to-SQL System with RAG, RBAC & Snowflake Integration 
 
 An end-to-end GenAI-powered system that converts natural language queries into secure, validated SQL statements using a Retrieval-Augmented Generation (RAG) pipeline and executes them in Snowflake with role-based access control.
 
