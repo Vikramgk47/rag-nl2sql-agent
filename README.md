@@ -22,7 +22,7 @@ The pipeline follows a multi-stage orchestration process:
 3. Context Retrieval (RAG + Vector Embeddings)
 4. SQL Generation via LLM
 5. SQL Safety Validation (Blocks UPDATE, DELETE, ALTER)
-6. Role-Based Access Check (RBAC)
+6. Role-Based Access Check (RBAC) 
 7. Secure Execution in Snowflake
 8. AI-Generated Analytical Summary + Visualization
 
